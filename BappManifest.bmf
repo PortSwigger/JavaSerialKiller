@@ -6,6 +6,6 @@ SerialVersion: 1
 MinPlatformVersion: 0
 ProOnly: False
 Author: Eric Gruber
-ShortDescription: Performs Java Deserialization Attacks using the ysoserial payload generator tool.
+ShortDescription: Performs Java deserialization attacks using the ysoserial payload generator tool.
 EntryPoint: target/javaserialkiller-1.0-SNAPSHOT.jar
 BuildCommand: mvn package -DskipTests=true -Dmaven.javadoc.skip=true -B
