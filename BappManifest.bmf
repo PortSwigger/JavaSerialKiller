@@ -1,6 +1,7 @@
 Uuid: afd8c03376f3461b804f39efae38f222
 ExtensionType: 1
 Name: Java Serial Killer
+RepoName: java-serial-killer
 ScreenVersion: 1.1.0
 SerialVersion: 3
 MinPlatformVersion: 0
